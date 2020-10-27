@@ -2,7 +2,7 @@
 
 # Data Structures
 
-Necmettin Erbakan University 2nd year Computer Engineering, Data Structures course grades, homework and projects. We use C / C ++ programming language in data structures course. If you compile the C ++ codes I have written with GNU Compiler Collection (GCC) version 8.3.0, there will be no problems.
+Necmettin Erbakan University 2nd year Computer Engineering, Data Structures course grades, homework and projects. We use C / C ++ programming language in data structures course. If you compile the C ++ codes I have written with GNU Compiler Collection (GCC) version 8.3.0, there will be no problems. Explanation lines of projects, assignments and applications are in Turkish.
 
 
 ### Data Structures course content
