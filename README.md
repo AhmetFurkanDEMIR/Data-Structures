@@ -7,11 +7,11 @@ Necmettin Erbakan University 2nd year Computer Engineering, Data Structures cour
 
 # Data Structures course content
 
-* [ [x] **Linked List**](/linked_list/)
+* [x] [**Linked List**](/linked_list/)
   
-    * [[x] Linear linked list](/linked_list/Linear_linked_list/)
+    * [x] [Linear linked list](/linked_list/Linear_linked_list/)
      
-    * [[x] Circular linked list](/linked_list/Circular_linked_list/)
+    * [x] [Circular linked list](/linked_list/Circular_linked_list/)
     
     * [ ] Two way linked list
 
