@@ -13,7 +13,7 @@ Necmettin Erbakan University 2nd year Computer Engineering, Data Structures cour
      
     * [x] [Circular linked list](/linked_list/Circular_linked_list/)
     
-    * [ ] Two way linked list
+    * [x] Two way circular linked list
 
 
 * [ ] **Abstract Data Types (ADT)**
