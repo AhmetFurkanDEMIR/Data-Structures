@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+<center>
+<form method="GET" action="/" enctype="multipart/form-data">
+<p><font face="tahoma" size="4" color="maroon">
+<b>Decimal to Binary Converter</b></font></p>
+
+<hr>
+
+<p><font face="tahoma" size="3" color="blue">
+<b>{{text0}}</b></font>
+
+<font face="tahoma" size="3" color="maroon">
+<b>  =  </b>
+
+<font face="tahoma" size="3" color="blue">
+<b>{{result}}</b></font><p>
+
+<pre>
+<pre>
+
+<div align="center">
+<button type="submit" class="btn btn-primary">New conversion action</button>
+</form>
+
+</center>
+
+{% endblock body %}

@@ -1,0 +1,59 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+<body>
+
+	<div class="container" style="min-height:100% width:80%">
+	{% with messages = get_flashed_messages() %}
+	  {% if messages %}
+	    {% for message in messages %}
+		  <div class="alert alert-warning alert-dismissible" role="alert">
+		  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+			{{message}}
+		  </div>
+		{% endfor %}
+	  {% endif %}
+	{% endwith %}
+	
+	{% block asd %}{% endblock %}
+	</div>
+
+	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+
+</body>
+
+<center>
+<form method="POST" action="/run" enctype="multipart/form-data">
+<p><font face="tahoma" size="4" color="maroon">
+<b>Decimal to Binary Converter</b></font></p>
+
+<hr>
+
+<a href="/"><div align="center"><img src="{{ url_for('static', filename = 'images/gf.gif') }}" ></div></a>
+
+<p><font face="tahoma" size="2" color="blue">
+<b>The number to be converted from decimal₁₀ to binary₂</b></font></p>
+<input type="text" id="name0" name="name0" required
+       minlength="1" maxlength="10" size="12">
+
+<pre>
+<pre>
+
+<p><font face="tahoma" size="2" color="blue">
+<b>Number precision</b></font></p>
+<input type="text" id="name1" name="name1" required
+       minlength="1" maxlength="2" size="12">
+
+<pre>
+<pre>
+
+<div align="center">
+<button type="submit" class="btn btn-primary">Convert</button>
+</form>
+
+
+</center>
+
+{% endblock body %}
