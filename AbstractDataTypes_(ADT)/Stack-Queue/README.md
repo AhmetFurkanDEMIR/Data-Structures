@@ -1,6 +1,6 @@
 ## Stack-Queue
 
-* Decimal to Binary website that I wrote with Python (Flask) and C ++ (Stack data structure) programming languages.
+* Decimal to Binary website that I wrote with Python (Flask) and C ++ (Stack-Queue data structure) programming languages.
 
 * Site (It will remain open until 1/02/2021) : 1demir.pythonanywhere.com/
 
