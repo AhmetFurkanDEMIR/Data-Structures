@@ -18,9 +18,9 @@ Necmettin Erbakan University 2nd year Computer Engineering, Data Structures cour
 
 * [x] [**Abstract Data Types (ADT)**](/AbstractDataTypes_(ADT))
 
-    * [x] [Stack](/AbstractDataTypes_(ADT)/Stack/)
+    * [x] [Stack](/AbstractDataTypes_(ADT)/Stack-Queue/)
     
-    * [ ] Queue
+    * [x] [Queue](/AbstractDataTypes_(ADT)/Stack-Queue/)
 
 
 * [ ] **Trees**
