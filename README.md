@@ -24,6 +24,10 @@ Necmettin Erbakan University 2nd year Computer Engineering, Data Structures cour
 
 * [x] [**Data structures exam 1**](/Data_structures_exam_1)
 
+
+* [x] [**Hash**](/Hash/)
+
+
 * [ ] **Trees**
 
     * [ ] Binary tree
@@ -43,9 +47,6 @@ Necmettin Erbakan University 2nd year Computer Engineering, Data Structures cour
     * [ ] Shortest Path
     
     * [ ] Max Flow
-
-
-* [ ] **Hash**
 
 
 * [ ] **matrices**
