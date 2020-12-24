@@ -30,9 +30,9 @@ Necmettin Erbakan University 2nd year Computer Engineering, Data Structures cour
 
 * [ ] **Trees**
 
+    * [x] [**Binary Search Tree**](/Binary_Search_Tree/)
+
     * [ ] Binary tree
-    
-    * [ ] Binary Search Tree
     
     * [ ] AVL, Read black, vb.
 
