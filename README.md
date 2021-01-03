@@ -28,11 +28,11 @@ Necmettin Erbakan University 2nd year Computer Engineering, Data Structures cour
 * [x] [**Hash**](/Hash/)
 
 
-* [ ] **Trees**
+* [x] [**Trees**](/Tree)
 
-    * [x] [**Binary Search Tree**](/Binary_Search_Tree/)
+    * [x] [**Binary tree**](/Tree/Binary_Tree.c)
 
-    * [ ] Binary tree
+    * [x] [**Binary Search Tree**](/Tree/Binary_Search_Tree.c)
     
     * [ ] AVL, Read black, vb.
 
