@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/-Made_Wtih-blue.svg?style=flat&logo=c%2B%2B)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 # Data Structures
 
