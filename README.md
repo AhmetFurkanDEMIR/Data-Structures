@@ -37,7 +37,7 @@ Necmettin Erbakan University 2nd year Computer Engineering, Data Structures cour
     * [x] [**AVL**](/Tree/avl.c)
     
     
-* [x] [**Data Structures homework**](/homework)
+* [x] [**Data Structures homework**](/homework/)
 
 
 * [ ] **Graph**
