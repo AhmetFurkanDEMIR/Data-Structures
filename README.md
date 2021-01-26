@@ -34,10 +34,10 @@ Necmettin Erbakan University 2nd year Computer Engineering, Data Structures cour
 
     * [x] [**Binary Search Tree**](/Tree/Binary_Search_Tree.c)
     
-    * [ ] AVL, Read black, vb.
-
-
-* [ ] **Heap**
+    * [x] [**AVL**](/Tree/avl.c)
+    
+    
+* [x] [**Data Structures homework**](/homework)
 
 
 * [ ] **Graph**
@@ -48,5 +48,3 @@ Necmettin Erbakan University 2nd year Computer Engineering, Data Structures cour
     
     * [ ] Max Flow
 
-
-* [ ] **matrices**
