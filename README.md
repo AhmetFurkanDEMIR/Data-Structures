@@ -40,6 +40,9 @@ Necmettin Erbakan University 2nd year Computer Engineering, Data Structures cour
 * [x] [**Data Structures homework**](/homework/Infix_to_postfix_and_postfix_evaluation.c)
 
 
+* [x] [**Final exam and past exams**](/AllExams/)
+
+
 * [ ] **Graph**
 
     * [ ] Minimum Spanning Tree (MST)
