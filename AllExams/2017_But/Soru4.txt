@@ -1,0 +1,33 @@
+Hasing, değişken uzunluklu veri kümelerini, sabit uzunluklu veri kümelerine haritalayan algoritmadır, kısaca mantığını şu şekilde açıklayabiliriz, elimizde x degiskeninde bir string var bu x degiskenini hashleyince 0 ile 30 (mod alarak) arasında bir deger elde edeceğiz daha sonra bu degeri o indise yerlestirebiliriz, eger farklı stringler aynı hash degerine sahip ise o indis içersine bağlı liste koyarak ayni hash degerindeki tüm verileri o liste de saklayabilirz. Boylece verilerde çok daha hızlı bir sekilde arama ve silme işlemi yapabiliriz.
+
+Örnek hash uygulama;
+
+# python 3.9
+def hasing(x):
+	
+	# karekterlerin ascii toplamini tatacagim degisken
+	y = 0
+
+	#gelen stringin tüm karekterleri
+	for i in x:
+
+		y+= ord(i) #ascii hale cevirdim
+
+	key = y%30 #toplam degiskeninin 30 ile modunu alarak, tum stringleri 0 ile 30 arasındaki degere hashledim.
+
+	return key
+
+
+x = "Ahmet Furkan DEMIR"
+key = hasing(x)
+print("1. String degisken {} , Hashlenmiş hali {}".format(x,key))
+
+x = "FENERBAHCE"
+key = hasing(x)
+print("2. String degisken {} , Hashlenmiş hali {}".format(x,key))
+
+"""
+demir@demir:~/Desktop$ python3 b.py
+1. String degisken : Ahmet Furkan DEMIR , Hashlenmiş hali : 13
+2. String degisken : FENERBAHCE , Hashlenmiş hali : 17
+"""
