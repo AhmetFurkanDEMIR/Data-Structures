@@ -27,6 +27,10 @@ Necmettin Erbakan University 2nd year Computer Engineering, Data Structures cour
 
 * [x] [**Hash**](/Hash/)
 
+    * [x] [Hash Cpp](/Hash/Cpp)
+    
+    * [x] [Hash Python](/Hash/Python)
+    
 
 * [x] [**Trees**](/Tree)
 
