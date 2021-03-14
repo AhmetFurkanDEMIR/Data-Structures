@@ -46,11 +46,3 @@ Necmettin Erbakan University 2nd year Computer Engineering, Data Structures cour
 
 * [x] [**Final exam and past exams**](/AllExams/)
 
-
-* [ ] **Graph**
-
-    * [ ] Minimum Spanning Tree (MST)
-    
-    * [ ] Shortest Path
-    
-    * [ ] Max Flow
